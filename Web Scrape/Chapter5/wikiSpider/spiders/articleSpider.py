@@ -20,7 +20,9 @@ from scrapy.spiders import CrawlSpider, Rule
 from wikiSpider.items import Article # this is not an error!
 
 class ArticleSpider(CrawlSpider):
+    # crawler name
     name = 'articleItems'
+
     allowed_domains = ['wikipedia.org']
     start_urls = ['https://en.wikipedia.org/wiki/Benevolent_dictator_for_life']
     rules = [
