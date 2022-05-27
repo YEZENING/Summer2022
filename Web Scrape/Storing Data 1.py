@@ -10,7 +10,7 @@
 Created on   May 19 22:53:31 2022
 # @Author:   Zening Ye
 # @Email:    zening.ye@gmail.com
-# @Project:  Summer2022
+# @Project:  Web Scrape
 # @File:     Storing Data 1.py
 # @Software: PyCharm
 """
