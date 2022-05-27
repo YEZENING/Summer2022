@@ -51,8 +51,3 @@ from requests.auth import AuthBase, HTTPBasicAuth
 auth = HTTPBasicAuth('Shoko','password')
 r = requests.post('https://pythonscraping.com/pages/auth/login.php',auth=auth)
 print(r.text)
-
-
-asus = HTTPBasicAuth('znye','Ye990131')
-asus_s = requests.session().post('http://router.asus.com/Main_Login.asp',auth=asus)
-print(asus_s.text)
