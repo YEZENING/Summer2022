@@ -132,3 +132,75 @@ with tf.GradientTape(persistent=True) as t:
     z = u * x
 x_grad = t.gradient(z, x)
 x_grad == u
+
+t.gradient(y,x) == 2 * x
+
+## Computing the gradient of Python Control Flow
+def f(a):
+    b = a * 2
+    while tf.norm(b) < 1000:
+        b = b * 2
+    if tf.reduce_sum(b) > 0:
+        c = b
+    else: c = 100 * b
+    return c
+
+a = tf.Variable(tf.random.normal(shape=()))
+with tf.GradientTape() as t:
+    d = f(a)
+d_grad = t.gradient(d, a)
+d_grad
+d_grad == d/a
+
+# Probability
+## Rolling a die
+import torch
+import matplotlib.pyplot as plt
+from torch.distributions import multinomial
+import numpy as np
+
+fair_prob = torch.ones([6]) / 6
+multinomial.Multinomial(1, fair_prob).sample()
+
+'''
+### using numpy directly
+fair_prob_np = np.ones(6)/6
+counts_np = np.random.multinomial(1, fair_prob)
+'''
+
+##store the result as 32-bit float for divition
+counts = multinomial.Multinomial(1000, fair_prob).sample()
+counts / 1000
+
+### calculate the probability in 500 times
+counts = multinomial.Multinomial(10, fair_prob).sample((500,))
+cum_count = counts.cumsum(dim=0) # count for row
+estimates = cum_count / cum_count.sum(dim=1, keepdims=True) # count for column
+
+## plot the result
+fig, ax1 = plt.subplots(figsize=(12,8))
+for i in range(6):
+    ax1.plot(estimates[:,i].numpy(), label=("P(die=" + str(i + 1) + ")"))
+ax1.axhline(y=0.167, color='black', linestyle='dashed')
+ax1.set_xlabel('Groups of experiments')
+ax1.set_ylabel('Estimate probability')
+ax1.legend()
+plt.show()
+
+'''
+### numpy version
+fair_prob_np = np.ones(6)/6
+counts_np = np.random.multinomial(10, fair_prob_np, size=500)
+cum_count_np = counts_np.cumsum(axis=0) # count for row
+estimates_np = cum_count_np / cum_count_np.sum(axis=1,keepdims=True)
+
+fig, ax2 = plt.subplots(figsize=(12,8))
+for i in range(6):
+    ax2.plot(estimates_np[:,i], label=("P(die=" + str(i + 1) + ")"))
+ax2.axhline(y=0.167, color='black', linestyle='dashed')
+ax2.set_xlabel('Groups of experiments')
+ax2.set_ylabel('Estimate probability')
+ax2.legend()
+plt.show()
+'''
+
