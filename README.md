@@ -12,3 +12,4 @@
 - Upload Read DOC.py,NLP.py,Data Cleaning.py,Login Crawling.py ZY May 27, 2022 14:30
 - Upload Avoiding Scraping Traps.py, Testing.py, Image Processing and Text Recognition.py ZY Jun. 06, 2022 15:55
 - Upload Scraping Remotely.py, Parallel Crawling.py ZY Jun. 08, 2022 22:35
+- Deep Learning Project Update ZY Jun. 09, 2022 23:26
