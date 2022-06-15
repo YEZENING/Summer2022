@@ -24,3 +24,5 @@
 ---
 - **Deep Learning Project** Update ZY Jun. 09, 2022 23:26
   - Upload Preliminary.py ZY Jun. 09, 2022 23:31
+  - Update Preliminary.py ZY Jun. 10, 2022 15:43
+  - Upload Linear Regression 1&2.py, and Softmax Regression.py ZY Jun.15, 2022 14:04
