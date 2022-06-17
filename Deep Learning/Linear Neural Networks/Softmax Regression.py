@@ -168,7 +168,7 @@ num_epochs = 10
 
 '''
 For some reasons I am not be able to reproduce the entire code from 3.6 - 3.7. I did not install 'd2l' package
-for my environemnt since it is useless. 
+for my environment since it is useless. 
 
 The important thing to know that we will use the pytorch framework to produce the neural network and they all have function
 inside the packages. Same as tensorflow
