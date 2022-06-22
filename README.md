@@ -27,3 +27,9 @@
   - Update Preliminary.py ZY Jun. 10, 2022 15:43
   - Upload Linear Regression 1&2.py, and Softmax Regression.py ZY Jun.15, 2022 14:04
   - Update Softmax Regression.py ZY Jun.16 2022, 22:04
+  - Upload following scripts under Multilayer Perceptron: ZY Jun. 21, 2022 22:30
+    - Multilayer Perceptrons.py
+    - Weight Decay.py
+    - Dropout.py
+    - Underfitting and Overfitting.py
+    - House Price Prediction.py
