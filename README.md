@@ -34,4 +34,5 @@
     - Underfitting and Overfitting.py
     - House Price Prediction.py
   - Upload Layers&Blocks.py, Parameter Management.py, Defferred Initialization.py ZY Jun. 23 2022 16:32
-  - Upload Custom Layers.py, File I/O.py, GPUs.py ZY Jun. 23 2022, 23:04
+  - Upload Custom Layers.py, File I/O.py, GPUs.py ZY Jun. 23 2022 23:04
+  - Upload Convolutions for Image.py, Padding and Stride.py ZY Jun. 24, 2022 21:46
