@@ -37,3 +37,4 @@
   - Upload Custom Layers.py, File I/O.py, GPUs.py ZY Jun. 23 2022 23:04
   - Upload Convolutions for Image.py, Padding and Stride.py ZY Jun. 24, 2022 21:46
   - Upload Multiple Input and Output.py, Pooling.py, LeNet.py ZY Jun. 27, 2022 23:30
+  - Upload AlexNet.py ZY Jun. 28, 2022 23:13
