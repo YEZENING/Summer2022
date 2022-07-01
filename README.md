@@ -40,3 +40,4 @@
   - Upload AlexNet.py ZY Jun. 28, 2022 23:13
   - Upload VGG.py, NiN.py, GoogLeNet.py ZY Jun. 29, 2022 23:08
   - Upload Batch Normalization.py, ResNet.py ZY Jul. 01, 2022 00:10
+  - Upload DenseNet.py ZY Jul. 01, 2022 15:33
