@@ -41,3 +41,4 @@
   - Upload VGG.py, NiN.py, GoogLeNet.py ZY Jun. 29, 2022 23:08
   - Upload Batch Normalization.py, ResNet.py ZY Jul. 01, 2022 00:10
   - Upload DenseNet.py ZY Jul. 01, 2022 15:33
+  - Upload Sequence Model.py ZY Jul. 02, 2022 22:56
