@@ -43,3 +43,4 @@
   - Upload DenseNet.py ZY Jul. 01, 2022 15:33
   - Upload Sequence Model.py ZY Jul. 02, 2022 22:56
   - Upload Text Preprocessing.py, Language Model.py, RNNs.py ZY Jul. 08 2022 12:32
+  - Upload GRU.py, LSTM.py ZY Jul. 08, 2022 15:32
