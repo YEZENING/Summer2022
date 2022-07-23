@@ -48,3 +48,4 @@
   - Upload BRNN.py, Machine Translation.py, Encoder-Decoder.py, Seq2Seq.py ZY Jul. 12, 2022 22:07
   - Upload Attention Cue.py, Attention Pooling.py, ASF.py, Bahdanau.py ZY Jul.15, 2022 23:54
   - Upload Multi-Head Attention.py, SA-PE.py, Transformer.py ZY Jul. 19, 2022 23:42
+  - Upload Opt-DL.py, Convexity.py, GD.py, SGD.py ZY Jul. 22, 2022 21:29
