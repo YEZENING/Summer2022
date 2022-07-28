@@ -50,3 +50,4 @@
   - Upload Multi-Head Attention.py, SA-PE.py, Transformer.py ZY Jul. 19, 2022 23:42
   - Upload Opt-DL.py, Convexity.py, GD.py, SGD.py ZY Jul. 22, 2022 21:29
   - Upload M-SGD.py, Momentum.py, Adagrad.py, RMSProp.py, Adadelta.py, Adam.py ZY Jul. 27, 2022 21:58
+  - Upload LR Scheduling.py ZY jul. 28, 2022 16:08
