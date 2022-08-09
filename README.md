@@ -52,3 +52,4 @@
   - Upload M-SGD.py, Momentum.py, Adagrad.py, RMSProp.py, Adadelta.py, Adam.py ZY Jul. 27, 2022 21:58
   - Upload LR Scheduling.py ZY jul. 28, 2022 16:08
   - Upload Compilers_Interpreters.py, Asynchronous Computation.py, Automatic Parallelism.py, Compilers_Interpreters.py, Multi_GPUs.py ZY Aug. 02, 2022 14:07
+  - Upload Image Augmentation.py, Fine_Tuning.py, Object Detection.py, Anchor Box.py, Multiscale OD.py, OD Datasets.py, SSD.py ZY Aug.09, 2022 13:54
