@@ -53,4 +53,4 @@
   - Upload LR Scheduling.py ZY Jul. 28, 2022 16:08
   - Upload Compilers_Interpreters.py, Asynchronous Computation.py, Automatic Parallelism.py, Compilers_Interpreters.py, Multi_GPUs.py ZY Aug. 02, 2022 14:07
   - Upload Image Augmentation.py, Fine_Tuning.py, Object Detection.py, Anchor Box.py, Multiscale OD.py, OD Datasets.py, SSD.py ZY Aug. 09, 2022 13:54
-  - Upload RCNN.py, Semantic Segmentation.py, Transposed Conv.py, FCN.py, Neural Style Transfer.py ZY Aug. 12 2022 15:02
+  - Upload RCNN.py, Semantic Segmentation.py, Transposed Conv.py, FCN.py, Neural Style Transfer.py ZY Aug. 12 2022 15:04
