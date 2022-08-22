@@ -2,15 +2,25 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-![DEEP LEARNING](https://img.shields.io/badge/DEEP%20LEARNING-DL-brightgreen)
-![WEB SCRAPING](https://img.shields.io/badge/WEB%20SCRAPING-SCRAP-blue)
+![DEEP LEARNING](https://img.shields.io/badge/DEEP%20LEARNING-%23EE4C2C.svg?style=for-the-badge&logo=DL&logoColor=white)
+![WEB SCRAPING](https://img.shields.io/badge/Web%20Scrape-%2307405e.svg?style=for-the-badge&logo=WebSCrape&logoColor=white)
+![Size](https://img.shields.io/github/languages/code-size/yezening/summer2022?style=for-the-badge)
+
+![WEB FILE](https://img.shields.io/github/directory-file-count/yezening/summer2022/Deep%20Learning?color=lightblue&label=WEB&style=for-the-badge)
+![DL FILE](https://img.shields.io/github/directory-file-count/yezening/summer2022/Deep%20Learning?color=maroon&label=DL&style=for-the-badge)
+
 # Summer 2022
 
 - This repository uses for learning in Summer 2022
   - The entire repository should only upload the code that did not contain any sensitive information.
 
+# Table of Contents
+  - [Notification](#notification)
+  - [Working Log](#working-log)
+  - [Acknowledge](#acknowledges)
+  - [License](#license)
 
 # Notification
 
@@ -62,7 +72,28 @@
   - Upload Compilers_Interpreters.py, Asynchronous Computation.py, Automatic Parallelism.py, Compilers_Interpreters.py, Multi_GPUs.py ZY Aug. 02, 2022 14:07
   - Upload Image Augmentation.py, Fine_Tuning.py, Object Detection.py, Anchor Box.py, Multiscale OD.py, OD Datasets.py, SSD.py ZY Aug. 09, 2022 13:54
   - Upload RCNN.py, Semantic Segmentation.py, Transposed Conv.py, FCN.py, Neural Style Transfer.py ZY Aug. 12 2022 15:04
+  - Upload Image Classification.py ZY Aug. 22, 2022 16:40
+
+# License
+![License](https://img.shields.io/github/license/yezening/summer2022?style=for-the-badge)
+
+MIT License
+
+Copyright (c) 2022 YEZENING
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
 # Acknowledges
+  - [TensorFlow](https://www.tensorflow.org/tutorials)
+  - [PyTorch](https://pytorch.org/tutorials/)
   - [DIVE INTO DEEP LEARNING](https://d2l.ai/index.html)
   - [WEB SCRAPING USING SELENIUM PYTHON](https://iqss.github.io/dss-webscrape/)
+  - [Shields io](https://shields.io/)
