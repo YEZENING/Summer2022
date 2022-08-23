@@ -23,8 +23,8 @@
 # Table of Contents
   - [Notification](#notification)
   - [Working Log](#working-log)
-  - [Acknowledge](#acknowledges)
   - [License](#license)
+  - [Acknowledge](#acknowledges)
 
 # Notification
 
