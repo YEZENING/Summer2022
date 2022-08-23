@@ -9,10 +9,10 @@
 ![Size](https://img.shields.io/github/languages/code-size/yezening/summer2022?style=for-the-badge)
 
 ![WEB FILE](https://img.shields.io/github/directory-file-count/yezening/summer2022/Web%20Scrape?color=lightblue&label=WEB&style=for-the-badge)
-![DL FILE](https://img.shields.io/github/directory-file-count/yezening/summer2022/Deep%20Learning?color=maroon&label=DL&style=for-the-badge)
+![DL FILE](https://img.shields.io/github/directory-file-count/yezening/summer2022/Deep%20Learning?color=red&label=DL&style=for-the-badge)
 
 <p align="center">
-  <img src=https://thumbs.gfycat.com/BeneficialThoroughAgama-max-1mb.gif alt="animated" />
+  <img src=https://nebigdatahub.org/wp-content/uploads/2019/11/7T9364v.gif alt="animated" />
 </p>
 
 # Summer 2022
