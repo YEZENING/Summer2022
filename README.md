@@ -8,8 +8,12 @@
 ![WEB SCRAPING](https://img.shields.io/badge/Web%20Scrape-%2307405e.svg?style=for-the-badge&logo=WebSCrape&logoColor=white)
 ![Size](https://img.shields.io/github/languages/code-size/yezening/summer2022?style=for-the-badge)
 
-![WEB FILE](https://img.shields.io/github/directory-file-count/yezening/summer2022/Deep%20Learning?color=lightblue&label=WEB&style=for-the-badge)
+![WEB FILE](https://img.shields.io/github/directory-file-count/yezening/summer2022/Web%20Scrape?color=lightblue&label=WEB&style=for-the-badge)
 ![DL FILE](https://img.shields.io/github/directory-file-count/yezening/summer2022/Deep%20Learning?color=maroon&label=DL&style=for-the-badge)
+
+<p align="center">
+  <img src=https://thumbs.gfycat.com/BeneficialThoroughAgama-max-1mb.gif alt="animated" />
+</p>
 
 # Summer 2022
 
@@ -26,7 +30,6 @@
 
 - In order to ensure the version of code, the formal commit format list below:
   - Commend + Name of the file(contain .py) + Initial of Auther + Date and time
-
 
 # Working Log
 
@@ -92,8 +95,39 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 # Acknowledges
-  - [TensorFlow](https://www.tensorflow.org/tutorials)
-  - [PyTorch](https://pytorch.org/tutorials/)
+  - [TENSORFLOW](https://www.tensorflow.org/tutorials)
+  - [PYTORCH](https://pytorch.org/tutorials/)
   - [DIVE INTO DEEP LEARNING](https://d2l.ai/index.html)
   - [WEB SCRAPING USING SELENIUM PYTHON](https://iqss.github.io/dss-webscrape/)
   - [Shields io](https://shields.io/)
+
+# Demo
+The following code use for folding the content:
+<details>
+<summary>WEB SCRAPING</summary>
+
+* Upload articlePipe.py & pipelines.py ZY May 19, 2022 22:04
+* Upload articlePipe.py & pipelines.py ZY May 19, 2022 22:04
+* Upload Storing 1.py and Storing 2.py ZY May 24, 2022 16:31
+* Upload E-mail.py ZY May 24, 2022 16:31
+* Upload Read DOC.py, NLP.py, Data Cleaning.py, Login Crawling.py ZY May 27, 2022 14:30
+* Upload Avoiding Scraping Traps.py, Testing.py, Image Processing and Text Recognition.py ZY Jun. 06, 2022 15:55
+* Upload Scraping Remotely.py, Parallel Crawling.py ZY Jun. 08, 2022 22:35
+
+</details>
+
+Code Example:
+```html
+<details>
+<summary>WEB SCRAPING</summary>
+
+* Upload articlePipe.py & pipelines.py ZY May 19, 2022 22:04
+* Upload articlePipe.py & pipelines.py ZY May 19, 2022 22:04
+* Upload Storing 1.py and Storing 2.py ZY May 24, 2022 16:31
+* Upload E-mail.py ZY May 24, 2022 16:31
+* Upload Read DOC.py, NLP.py, Data Cleaning.py, Login Crawling.py ZY May 27, 2022 14:30
+* Upload Avoiding Scraping Traps.py, Testing.py, Image Processing and Text Recognition.py ZY Jun. 06, 2022 15:55
+* Upload Scraping Remotely.py, Parallel Crawling.py ZY Jun. 08, 2022 22:35
+
+</details>
+```
